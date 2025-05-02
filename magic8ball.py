@@ -1,4 +1,4 @@
-# Magic 8-Ball Game
+# Magic 8-Ball Game.
 # The code below is a simple implementation of a Magic 8-Ball game.
 # The user is prompted to ask a yes or no question, and the program randomly selects an answer from a predefined list of responses.
 # The selected answer is then printed to the console.
