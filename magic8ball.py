@@ -5,7 +5,7 @@
 
 import random
 
-Questions = input("Ask a yes or no question please " \
+Question = input("Ask a yes or no question please " "\n"
 "What's your question: ")
 
 answers = [
