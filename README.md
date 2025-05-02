@@ -44,10 +44,10 @@ Question: Will I win the lottery?
 Magic 8-Ball: Very doubtful.
 ```
 
-## License
-
-This project is available for personal and educational use.
-
 ## Idea Base
 
 Python Tutorial from Codédex (https://www.codedex.io/python/14-magic-8-ball)
+
+## License
+
+This project is available for personal and educational use.
